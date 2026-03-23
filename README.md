@@ -17,7 +17,7 @@
 
 ## 👋 Olá, eu sou o Lucas Marchesin
 
-> **Cybersecurity Specialist** na [IPV7](https://www.ipv7.com.br) — Fora da curva.
+> **Cybersecurity Specialist** na [IPV7](https://ipv7.com.br) — Fora da curva.
 
 Profissional de segurança da informação com foco em **Red Team**, **Pentest** e **GRC**. Apaixonado por explorar vulnerabilidades, fortalecer defesas e ir além do convencional.
 

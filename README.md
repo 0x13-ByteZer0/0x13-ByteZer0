@@ -49,7 +49,7 @@ Profissional de segurança da informação com foco em **Red Team**, **Pentest**
 
 ## 💼 Experiência
 
-**🔐 Especialista em Segurança da Informação** @ [IPV7](https://www.ipv7.com.br)
+**🔐 Especialista em Segurança da Informação** @ [IPV7](https://ipv7.com.br)
 `set 2025 – presente` · Rio Grande do Sul, Brasil
 
 **🔴 Pentester — Red Team** @ securityfirst
@@ -93,7 +93,7 @@ Profissional de segurança da informação com foco em **Red Team**, **Pentest**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Lucas_Marchesin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neverl0g/)
 [![Email](https://img.shields.io/badge/Email-Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucasmarchesinsilva@gmail.com)
-[![IPV7](https://img.shields.io/badge/IPV7-www.ipv7.com.br-FF4444?style=for-the-badge&logo=firefox&logoColor=white)](https://www.ipv7.com.br)
+[![IPV7](https://img.shields.io/badge/IPV7-ipv7.com.br-FF4444?style=for-the-badge&logo=firefox&logoColor=white)](https://ipv7.com.br)
 
 </div>
 
